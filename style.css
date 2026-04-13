@@ -265,6 +265,12 @@ a:hover {
   width: 36px;
   height: 36px;
 }
+.logo-img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  border-radius: var(--radius-sm);
+}
 .logo-text {
   font-family: var(--font-display);
   font-weight: 700;
